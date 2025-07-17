@@ -1,0 +1,4 @@
+#!/bin/zsh
+
+/opt/homebrew/bin/fastfetch
+zsh -il
